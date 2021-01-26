@@ -1,0 +1,372 @@
+/*
+Theme Name: Sydney Child
+Theme URI: http://athemes.com/theme/sydney
+Author: aThemes
+Author URI: http://athemes.com
+Template: sydney
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: sydney
+*/
+
+@keyframes neon{
+
+    from{
+        text-shadow: 2px 2px 4px gray, 0 0 1em blue, 0 0 0.2em blue;
+    }
+
+    20%{
+        text-shadow: 2px 2px 4px gray, 0 0 1em rgb(225, 0, 255), 0 0 0.2em rgb(225, 0, 255);
+    }
+
+    40%{
+        text-shadow: 2px 2px 4px gray, 0 0 1em yellow, 0 0 0.2em yellow;
+    }
+
+    60%{
+        text-shadow: 2px 2px 4px gray, 0 0 1em red, 0 0 0.2em red;
+    }
+
+    80%{
+        text-shadow: 2px 2px 4px gray, 0 0 1em green, 0 0 0.2em green;
+    }
+
+    to{
+        text-shadow: 2px 2px 4px gray, 0 0 1em blue, 0 0 0.2em blue;
+    }
+}
+
+/* Widget last post */
+
+.widgettitle{
+	font-size: 1.3em;
+	color: #47425d;
+	margin-top: 50px;
+	text-align: left;
+	text-decoration: underline;
+}
+
+.cat-post-title{
+	font-size: 1em;
+}
+
+#category-posts--1-internal{
+	background-color: #F9F9F9;
+	border-radius: 5px;
+}
+
+#category-posts--1-internal{
+	padding-right: 20px;
+}
+
+.wp-post-image{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.rpwe-block li{
+	text-align: left;
+}
+
+.widget-area .widget{
+	display: none;
+}
+
+#search-2{
+	display: block;
+}
+
+/* Header */
+
+.site-logo{
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 10px;
+}
+
+.text-slider .maintitle{
+    font-size: 3em;
+    animation: neon 32s ease infinite;
+	-webkit-animation: neon 32s ease infinite;
+}
+
+.text-slider .maintitle:after{
+    background: none;
+}
+
+.text-slider .subtitle{
+    font-size: 6em;
+    margin-top: 50px;
+    animation: neon 32s ease infinite;
+}
+
+.text-slider{
+    animation: none;
+}
+
+/* Actualités */
+
+.post-cat{
+	display: none;
+}
+
+.classic-alt .entry-title a{
+	color: #d65050;
+}
+
+/* Articles */
+
+.h2-change{
+	font-size: 1.5em;
+}
+
+.archive-title{
+	display: none;
+}
+
+/* Activités du mois - Tableau */
+
+thead{
+	background-color: lightgray;
+}
+
+.ligne-table:hover{
+    background-color: #FFE1FA;
+}
+
+.css-events-list table.events-table td{
+	padding: 0 10px;
+}
+
+.btn-inscription{
+	background-color: #d65050;
+	border-radius: 3px;
+	color: white;
+	padding: 8px;
+}
+
+.btn-inscription:hover{
+	padding: 10px;
+	color: white;
+	font-weight: bold;
+}
+
+.entry-content{
+	text-align: center;
+}
+
+.entry-content p{
+	text-align: center;
+	display: block;
+}
+
+
+.single .single-meta{
+	text-align: center;
+	width: 100%;
+}
+
+#em-booking{
+	background-color: #F9F9F9;
+}
+
+h3{
+	text-decoration: underline;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	color: #d65050; 
+}
+
+#width{
+	width: 120px;
+}
+
+ul{
+	list-style: none;	
+}
+
+.event-categories{
+	margin-left: -40px;
+	margin-top: -20px;
+}
+
+/* Evenements */
+
+i{
+	display: none;
+}
+
+/* Plus d'infos */
+
+.hentry .title-post, .entry-content p{
+	text-align: center;
+}
+
+.hentry .title-post{
+	font-size: 2em;
+	color: #d65050;
+	-webkit-text-fill-color: #d65050; 
+	margin: -30px 0 50px 0;
+}
+
+.titreEvent{
+	font-size: 1.5em;
+}
+
+.sous-titre{
+	font-size: 1.2em;
+}
+/* Contact */
+
+#message{
+    width: 800px;
+    height: 200px;
+}
+
+#modify{
+	margin-top: -30px;
+	margin-bottom: 50px;
+}
+
+form{
+    margin: 0 auto;
+}
+
+.wpcf7-submit{
+	margin-left: 20px;
+}
+
+select{
+    color: black;
+    font-weight: bold;
+}
+textarea{
+	width: 400px;
+}
+
+.wpcf7-list-item-label{
+	padding-right: 5px;
+}
+
+#comment{
+	width: 100%;
+}
+option{
+    color: gray;
+}
+
+/* Liens */
+
+a:hover{
+    color: #d65050;
+}
+
+a{
+	color: #7856DE;
+}
+
+/* Medias queries */
+
+@media screen and (max-width: 1025px){
+	
+	.header-inner{
+		height: 150px;
+	}
+}
+
+@media screen and (max-width: 768px){
+	
+	.text-slider .maintitle{
+		font-size: 2em;
+	}
+	
+	.text-slider .subtitle{
+		font-size: 4em;
+		margin-top: 20px;
+	}
+	
+	.search-field{
+		margin-top: 40px;
+	}
+	
+	.site-logo{
+		
+		width: 100px;
+		height: 50px;
+	}
+	
+	.header-inner{
+		height: 200px;
+	}
+	
+	div.em-booking-login{
+		margin: 0;
+		border: none;
+	}
+	
+	.em-booking-form-details{
+		float: none;
+		width: 100%;
+	}
+	
+}
+
+@media screen and (max-width: 620px){
+	
+	.events-table{
+		display: block;
+	}
+	
+	th
+          {display: none;}
+       tr
+          {display: flex; flex-direction: column;}
+       td
+          {display: flex; flex-direction: column;}
+	
+	.en-tête{
+		 background-color: #FFE1FA;
+	}
+	
+	.event-title a{
+		margin-top: 25px;
+	}
+	
+	.ligne-table{
+		margin: 50px auto;
+	}
+
+	#btn{
+		padding: 10px 70px;
+	}
+}
+
+@media screen and (max-width: 425px){
+	
+	.text-slider .maintitle{
+		font-size: 1em;
+	}
+	
+	.text-slider .subtitle{
+		font-size: 2.5em;
+	}
+	
+	.hentry .title-post{
+		font-size: 1.5em;
+	}
+	
+	.header-inner{
+		height: 100px;
+	}
+		
+	textarea{
+		width: 250px;
+	}
+	
+	.wpcf7-form-control{
+		width: 250px;
+	}
+	
+	
+	
+		
+}

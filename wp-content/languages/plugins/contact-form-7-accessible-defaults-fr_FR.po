@@ -1,0 +1,230 @@
+# Translation of Plugins - Contact Form 7: Accessible Defaults - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Contact Form 7: Accessible Defaults - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-29 16:16:13+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Contact Form 7: Accessible Defaults - Stable (latest release)\n"
+
+#. Author of the plugin/theme
+msgid "Joseph Dolson"
+msgstr "Joseph Dolson"
+
+#. Description of the plugin/theme
+msgid "Sets up an accessible default form when using Contact Form 7."
+msgstr "Propose un formulaire par défaut accessible lors de l’utilisation de Contact Form 7."
+
+#. #-#-#-#-#  tmp-contact-form-7-accessible-defaults.pot (Contact Form 7:
+#. Accessible Defaults 1.1.4)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  tmp-contact-form-7-accessible-defaults.pot (Contact Form 7:
+#. Accessible Defaults 1.1.4)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://www.joedolson.com/"
+msgstr "http://www.joedolson.com/"
+
+#. #-#-#-#-#  tmp-contact-form-7-accessible-defaults.pot (Contact Form 7:
+#. Accessible Defaults 1.1.4)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: contact-form-7-accessible-form.php:293
+msgid "Contact Form 7: Accessible Defaults"
+msgstr "Contact Form 7: Accessible Defaults"
+
+#: contact-form-7-accessible-form.php:278
+msgid "Select an accessible base form:"
+msgstr "Sélectionnez un modèle de formulaire accessible&nbsp;:"
+
+#: contact-form-7-accessible-form.php:251
+msgid "Templates"
+msgstr "Modèles"
+
+#: contact-form-7-accessible-form.php:209
+msgid "New file submission from %s"
+msgstr "Nouveau fichier envoyé par %s"
+
+#: contact-form-7-accessible-form.php:204
+msgid "Upload Submitted"
+msgstr "Fichier envoyé"
+
+#: contact-form-7-accessible-form.php:198
+msgid "New subscription by %s"
+msgstr "Nouvel abonnement de %s"
+
+#: contact-form-7-accessible-form.php:193
+msgid "Subscription Format:"
+msgstr "Format d’abonnement&nbsp;:"
+
+#: contact-form-7-accessible-form.php:182
+msgid "Special notes:"
+msgstr "Remarques particulières&nbsp;:"
+
+#: contact-form-7-accessible-form.php:180
+msgid "Number of Children:"
+msgstr "Nombre d’enfants&nbsp;:"
+
+#: contact-form-7-accessible-form.php:178
+msgid "Number of Adults:"
+msgstr "Nombre d’adultes&nbsp;:"
+
+#: contact-form-7-accessible-form.php:176
+msgid "Departure Date:"
+msgstr "Date de départ&nbsp;:"
+
+#: contact-form-7-accessible-form.php:174
+msgid "Approximate Arrival Time:"
+msgstr "Heure approximative d’arrivée&nbsp;:"
+
+#: contact-form-7-accessible-form.php:172
+msgid "Arrival Date:"
+msgstr "Date d’arrivée&nbsp;:"
+
+#: contact-form-7-accessible-form.php:170
+msgid "Room Choice: %s"
+msgstr "Choix de la chambre&nbsp;: %s"
+
+#: contact-form-7-accessible-form.php:166
+msgid "Reservation request for %s"
+msgstr "Demande de réservation pour %s"
+
+#: contact-form-7-accessible-form.php:161
+#: contact-form-7-accessible-form.php:185
+#: contact-form-7-accessible-form.php:196
+#: contact-form-7-accessible-form.php:207
+msgid "This e-mail was sent from a contact form on %1$s (%2$s)"
+msgstr "Cet e-mail a été envoyé via le formulaire de contact de %1$s (%2$s)"
+
+#: contact-form-7-accessible-form.php:158
+msgid "Message Body:"
+msgstr "Corps du message :"
+
+#: contact-form-7-accessible-form.php:150
+msgid "Address:"
+msgstr "Adresse :"
+
+#: contact-form-7-accessible-form.php:148
+msgid "Subject: %s"
+msgstr "Sujet : %s"
+
+#: contact-form-7-accessible-form.php:146
+#: contact-form-7-accessible-form.php:168
+#: contact-form-7-accessible-form.php:191
+#: contact-form-7-accessible-form.php:202
+msgid "From: %s"
+msgstr "De : %s"
+
+#: contact-form-7-accessible-form.php:140
+msgid "Send"
+msgstr "Envoyé"
+
+#: contact-form-7-accessible-form.php:120
+msgid "File includes:"
+msgstr "Fichier comprenant&nbsp;:"
+
+#: contact-form-7-accessible-form.php:117
+msgid "Upload"
+msgstr "Mettre en ligne"
+
+#: contact-form-7-accessible-form.php:107
+msgid "Format"
+msgstr "Format"
+
+#: contact-form-7-accessible-form.php:96
+msgid "Special Notes"
+msgstr "Remarques particulières"
+
+#: contact-form-7-accessible-form.php:94
+msgid "Number of Children"
+msgstr "Nombre d’enfants"
+
+#: contact-form-7-accessible-form.php:92
+msgid "Number of Adults"
+msgstr "Nombre d’adultes"
+
+#: contact-form-7-accessible-form.php:90
+msgid "Departure Date"
+msgstr "Date de départ"
+
+#: contact-form-7-accessible-form.php:88
+msgid "Approximate Arrival Time"
+msgstr "Heure approximative d’arrivée"
+
+#: contact-form-7-accessible-form.php:86
+msgid "Arrival Date"
+msgstr "Date d’arrivée"
+
+#: contact-form-7-accessible-form.php:84
+msgid "Room Choice"
+msgstr "Choix de la chambre"
+
+#: contact-form-7-accessible-form.php:79
+msgid "Reserve a Room"
+msgstr "Réserver une chambre"
+
+#: contact-form-7-accessible-form.php:73 contact-form-7-accessible-form.php:133
+msgid "Your Message"
+msgstr "Votre message"
+
+#: contact-form-7-accessible-form.php:69
+msgid "Country"
+msgstr "Pays"
+
+#: contact-form-7-accessible-form.php:67
+msgid "Postal Code"
+msgstr "Code postal"
+
+#: contact-form-7-accessible-form.php:65
+msgid "State"
+msgstr "Province"
+
+#: contact-form-7-accessible-form.php:63
+msgid "City"
+msgstr "Ville"
+
+#: contact-form-7-accessible-form.php:61
+msgid "Address (line 2)"
+msgstr "Adresse (ligne 2)"
+
+#: contact-form-7-accessible-form.php:59
+msgid "Address (line 1)"
+msgstr "Adresse (ligne 1)"
+
+#: contact-form-7-accessible-form.php:58
+msgid "Your Address"
+msgstr "Votre adresse"
+
+#: contact-form-7-accessible-form.php:55 contact-form-7-accessible-form.php:131
+msgid "Your Subject"
+msgstr "Objet de votre message"
+
+#: contact-form-7-accessible-form.php:53 contact-form-7-accessible-form.php:82
+#: contact-form-7-accessible-form.php:104
+#: contact-form-7-accessible-form.php:115
+#: contact-form-7-accessible-form.php:129
+msgid "Your Email"
+msgstr "Votre adresse e-mail"
+
+#: contact-form-7-accessible-form.php:51 contact-form-7-accessible-form.php:53
+#: contact-form-7-accessible-form.php:80 contact-form-7-accessible-form.php:82
+#: contact-form-7-accessible-form.php:86 contact-form-7-accessible-form.php:88
+#: contact-form-7-accessible-form.php:90 contact-form-7-accessible-form.php:92
+#: contact-form-7-accessible-form.php:94 contact-form-7-accessible-form.php:102
+#: contact-form-7-accessible-form.php:104
+#: contact-form-7-accessible-form.php:113
+#: contact-form-7-accessible-form.php:115
+#: contact-form-7-accessible-form.php:117
+#: contact-form-7-accessible-form.php:127
+#: contact-form-7-accessible-form.php:129
+msgid "(required)"
+msgstr "(obligatoire)"
+
+#: contact-form-7-accessible-form.php:51 contact-form-7-accessible-form.php:80
+#: contact-form-7-accessible-form.php:102
+#: contact-form-7-accessible-form.php:113
+#: contact-form-7-accessible-form.php:127
+msgid "Your Name"
+msgstr "Votre nom"
